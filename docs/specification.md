@@ -86,7 +86,8 @@ Only 3 media items can be uploaded to a coition and the videos are restricted to
 * Social login (Fb, Twitter, Google)
 * Add Kama sutra
 * Wish list (location, partner)
-* secret intercourse
+* Secret intercourse
+* Create future event with partner invitation
 
 **Gamification**
 
